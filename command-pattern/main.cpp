@@ -1,6 +1,7 @@
 #include <iostream>
 #include "curseroguewindow.h"
 #include "curses.h"
+#include "Command.h"
 
 using namespace std;
 
@@ -8,6 +9,7 @@ static const char w_playerChar = '@';
 
 int main()
 {
+
     openRogueWindow();
 
     //This is only here because I get user input every loop, so need the user to see something.
