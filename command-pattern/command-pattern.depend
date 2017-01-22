@@ -12,7 +12,7 @@
 
 1485109009 c:\users\thinkpadyoga14\documents\github\pattern-command\command-pattern\include\command.h
 
-1485109451 source:c:\users\thinkpadyoga14\documents\github\pattern-command\command-pattern\src\command.cpp
+1485110242 source:c:\users\thinkpadyoga14\documents\github\pattern-command\command-pattern\src\command.cpp
 	"Command.h"
 
 1485109823 source:c:\users\thinkpadyoga14\documents\github\pattern-command\command-pattern\src\downcommand.cpp
@@ -25,5 +25,17 @@
 	"UpCommand.h"
 
 1485109469 c:\users\thinkpadyoga14\documents\github\pattern-command\command-pattern\include\upcommand.h
+	<Command.h>
+
+1485110180 source:c:\users\thinkpadyoga14\documents\github\pattern-command\command-pattern\src\leftcommand.cpp
+	"LeftCommand.h"
+
+1485110113 c:\users\thinkpadyoga14\documents\github\pattern-command\command-pattern\include\leftcommand.h
+	<Command.h>
+
+1485110166 source:c:\users\thinkpadyoga14\documents\github\pattern-command\command-pattern\src\rightcommand.cpp
+	"RightCommand.h"
+
+1485110154 c:\users\thinkpadyoga14\documents\github\pattern-command\command-pattern\include\rightcommand.h
 	<Command.h>
 
